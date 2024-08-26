@@ -6,13 +6,15 @@ DaimondPricePrediction.egg-info/dependency_links.txt
 DaimondPricePrediction.egg-info/requires.txt
 DaimondPricePrediction.egg-info/top_level.txt
 src/__init__.py
-src/execption.py
+src/exception.py
 src/logger.py
 src/util.py
 src/component/Data_Transformation.py
 src/component/Data_ingestion.py
 src/component/Model_Trainer.py
 src/component/__init__.py
+src/component/data_ingestion.py
 src/pipeline/Predict_pipeline.py
 src/pipeline/Training_pipeline.py
 src/pipeline/__init__.py
+src/pipeline/training_pipeline.py
